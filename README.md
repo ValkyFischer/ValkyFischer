@@ -30,8 +30,8 @@ You can reach out to me over...
 <br><br>
 
 ## Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValkyFischer&layout=compact&theme=tokyonight&count_private=true&hide_title=true)  
-![Valky Fischer's Github Stats](https://github-readme-stats.vercel.app/api?username=ValkyFischer&show_icons=true&count_private=true&theme=tokyonight&hide=prs,issues&include_all_commits=true&hide_title=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValkyFischer&layout=compact&theme=tokyonight&count_private=true)  
+![Valky Fischer's Github Stats](https://github-readme-stats.vercel.app/api?username=ValkyFischer&show_icons=true&count_private=true&theme=tokyonight&hide=prs,issues&include_all_commits=true)  
 
 <br><br>
 
