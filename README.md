@@ -22,8 +22,8 @@ I currently try:
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValkyFischer&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-![Valky Fischer's public Github Stats](https://github-readme-stats.vercel.app/api?username=ValkyFischer&show_icons=true&count_private=true&theme=tokyonight)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValkyFischer&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+![Valky Fischer's public Github Stats](https://github-readme-stats.vercel.app/api?username=ValkyFischer&show_icons=true&count_private=true&theme=tokyonight&count_private=true)  
 
 <!--
 **ValkyFischer/ValkyFischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
