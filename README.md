@@ -33,6 +33,10 @@ You can reach out to me over...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValkyFischer&layout=compact&theme=tokyonight&count_private=true)  
 ![Valky Fischer's public Github Stats](https://github-readme-stats.vercel.app/api?username=ValkyFischer&show_icons=true&count_private=true&theme=tokyonight&count_private=true)  
 
+<br><br>
+
+## Preview
+![launcher](https://valkyteq.com/static/misc/preview_launcher.png)
 <!--
 **ValkyFischer/ValkyFischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
