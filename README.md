@@ -1,7 +1,7 @@
 # Hello there!
 
 
-I am Valky, a 30 years young Software Engineer with the Federal Certificate of Proficiency (EFZ), living in the beautiful Switzerland and working with a flair for 3D art and passion on my projects.
+I am Valky, a 31 years young Software Engineer with the Federal Certificate of Proficiency (EFZ), living in the beautiful Switzerland and working with a flair for 3D art and passion on my projects.
 
 All the art and work on my projects I taught and created myself over the past years. Started with simple [Mods and Tools](https://www.nexusmods.com/farcryprimal/mods/5) for the whole FarCry game series I found my way into software development.
 
