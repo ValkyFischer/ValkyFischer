@@ -37,9 +37,9 @@ You can reach out to me over...
 <br><br>
 
 ## VALKORE Preview
-![launcher](https://valkyteq.com/static/misc/preview_vkore.png)
+![launcher](https://valkyteq.com/static/misc/preview_vkore.png?)
 
 <br><br>
 
 ## Launcher Preview
-![launcher](https://valkyteq.com/static/misc/preview_launcher.png)
+![launcher](https://valkyteq.com/static/misc/preview_launcher.png?)
