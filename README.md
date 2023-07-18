@@ -14,10 +14,11 @@ You can reach out to me over...
 ## About Me
 ### I work on...  
 - My modular [VALKORE](https://github.com/ValkyFischer/valkore)
-- The powerful [Valkyrie C.M.S.](https://github.com/VALKYTEQ/.github/blob/main/vteq-web.md)
-- My artificial intelligence [L.U.N.A.](https://github.com/VALKYTEQ/.github/blob/main/vteq-luna.md)
-- A proprietary 3D Web Game Engine [Animat3D](https://valkyteq.com/animat3d/)
-- Constant improvements for the [API](https://github.com/VALKYTEQ/.github/blob/main/vteq-api.md)  
+- All the stunning [websites](https://dev.valkyteq.com/)
+- My artificial intelligence [L.U.N.A.](https://luna.valkyteq.com/)
+- A proprietary 3D Web Game Engine [Animat3D](https://a3d.valkyteq.com/)
+- Constant improvements for [ARIA](https://aria.valkyteq.com/)
+- The system architecture for the MMO [TERA](https://tera.valkyteq.com/)
 
 ### I do like...  
 - Messing with ***game theory***
@@ -25,7 +26,7 @@ You can reach out to me over...
 - Snoozing my way through ***artificial intelligence***
 
 ### I currently try...  
-- Getting a proper knowledge on ***networking***
+- Creating an ***highly encrypted*** content explorer
 - Creating an ***interactive experience*** for content creators
 
 <br><br>
@@ -37,9 +38,14 @@ You can reach out to me over...
 <br><br>
 
 ## VALKORE Preview
-![launcher](https://valkyteq.com/static/misc/preview_vkore.png?)
+![valkore](https://valkyteq.com/static/img/preview/valkore.png?)
+
+<br><br>
+
+## Crypto Packager Preview
+![packager](https://valkyteq.com/static/img/preview/packager.png?)
 
 <br><br>
 
 ## Launcher Preview
-![launcher](https://valkyteq.com/static/misc/preview_launcher.png?)
+![launcher](https://valkyteq.com/static/img/preview/launcher.png?)
