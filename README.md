@@ -7,18 +7,17 @@ All the art and work on my projects I taught and created myself over the past ye
 
 ### Contact:
 You can reach out to me over...  
-[E-Mail](mailto:fischer@valkyteq.com?Subject=Github)   |    [Twitch](https://www.twitch.tv/valkyfischer)   |    [Discord](https://discord.gg/Ug2ne5K)  
+[E-Mail](mailto:fischer@valky.dev?Subject=Github)   |    [Twitch](https://www.twitch.tv/v_lky)   |    [Discord](https://discord.gg/vky)  
 
 <br><br>
 
 ## About Me
 ### I work on...  
 - My modular [VALKORE](https://github.com/ValkyFischer/valkore)
-- All the stunning [websites](https://dev.valkyteq.com/)
-- My artificial intelligence [L.U.N.A.](https://luna.valkyteq.com/)
-- A proprietary 3D Web Game Engine [Animat3D](https://a3d.valkyteq.com/)
-- Constant improvements for [ARIA](https://aria.valkyteq.com/)
-- The system architecture for the MMO [TERA](https://tera.valkyteq.com/)
+- All the stunning [websites](https://exv.al/)
+- My artificial intelligence [L.U.N.A.](https://valky.dev/en/luna)
+- Constant improvements for [ARIA](https://aria.exv.al/)
+- The system architecture for the MMO [TERA](https://valky.dev/en/blog)
 
 ### I do like...  
 - Messing with ***game theory***
