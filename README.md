@@ -13,11 +13,11 @@ You can reach out to me over...
 
 ## About Me
 ### I work on...  
-- My modular [VALKORE](https://github.com/ValkyFischer/valkore)
-- All the stunning [websites](https://exv.al/)
+- A big gaming backend for [ExVal Ltd.](https://exv.al/)
+- All the stunning [websites](https://valky.dev/)
 - My artificial intelligence [L.U.N.A.](https://valky.dev/en/luna)
 - Constant improvements for [ARIA](https://aria.exv.al/)
-- The system architecture for the MMO [TERA](https://valky.dev/en/blog)
+- The system architecture for an [MMORPG](https://valky.dev/en/blog)
 
 ### I do like...  
 - Messing with ***game theory***
@@ -37,14 +37,14 @@ You can reach out to me over...
 <br><br>
 
 ## VALKORE Preview
-![valkore](https://valkyteq.com/static/img/preview/valkore.png?)
+![valkore](https://exv.al/static/img/preview/valkore.png?)
 
 <br><br>
 
 ## Crypto Packager Preview
-![packager](https://valkyteq.com/static/img/preview/packager.png?)
+![packager](https://exv.al/static/img/preview/packager.png?)
 
 <br><br>
 
 ## Launcher Preview
-![launcher](https://valkyteq.com/static/img/preview/launcher.png?)
+![launcher](https://exv.al/static/img/preview/launcher.png?)
